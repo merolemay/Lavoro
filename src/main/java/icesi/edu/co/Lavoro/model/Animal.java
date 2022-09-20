@@ -23,6 +23,10 @@ public class Animal {
     @Id
     private String id;
 
+    private String parent1;
+
+    private String parent2;
+
     private String name;
 
     private String sex;
